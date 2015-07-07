@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/graphics">
+        <file alias="TumblerWidget">resources/gui_tumbler_widget.png</file>
+        <file alias="LedWidget">resources/gui_led_widget.png</file>
+        <file alias="ButtonWidget">resources/gui_button_widget.png</file>
+    </qresource>
+</RCC>
